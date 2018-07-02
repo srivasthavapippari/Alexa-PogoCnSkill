@@ -1,0 +1,216 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "pogocn",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "exit",
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "help"
+          ]
+        },
+        {
+          "name": "doraemon",
+          "samples": [
+            "doreamon",
+            "play doraemon theme song",
+            "play doraemon"
+          ]
+        },
+        {
+          "name": "tomandjerry",
+          "samples": [
+            "tomandjerry",
+            "tom and jerry",
+            "play tom and jerry theme song"
+          ]
+        },
+        {
+          "name": "chhotabheem",
+          "samples": [
+            "chhota bheem",
+            "chhotabheem",
+            "chotabheem",
+            "play chhota bheem theme song",
+            "play chhotabheem theme song"
+          ]
+        },
+        {
+          "name": "oggyandthecockroaches",
+          "samples": [
+            "play oggy and the cockroaches theme song",
+            "oggyandthecockroaches"
+          ]
+        },
+        {
+          "name": "bobthebuilder",
+          "samples": [
+            "play bob the builer",
+            "play bob the builder song",
+            "bobthebuilder",
+            "bob the builder"
+          ]
+        },
+        {
+          "name": "noddy",
+          "samples": [
+            "noddy",
+            "play noddy",
+            "play noddy theme song"
+          ]
+        },
+        {
+          "name": "krishnabalram",
+          "samples": [
+            "krishna balram",
+            "play krishna balram",
+            "play krishn balram theme song"
+          ]
+        },
+        {
+          "name": "mightyraju",
+          "samples": [
+            "play mighty raju",
+            "play mightyraju",
+            "play mighty raju theme song",
+            "mightyraju",
+            "mighty raju"
+          ]
+        },
+        {
+          "name": "mrbeananimated",
+          "samples": [
+            "mister bean animated song",
+            "mister bean song",
+            "play mister bean animated theme song",
+            "play mister bean animated ",
+            "play mr bean animated theme song"
+          ]
+        },
+        {
+          "name": "teentitans",
+          "samples": [
+            "teentitans",
+            "teen titans",
+            "teen titans theme song",
+            "play teen titans theme song"
+          ]
+        },
+        {
+          "name": "kidsnextdoor",
+          "samples": [
+            "kids next door",
+            "play kidsnextdoor song",
+            "play kidsnextdoor",
+            "kidsnextdoor"
+          ]
+        },
+        {
+          "name": "powerpuffgirls",
+          "samples": [
+            "power puff girls",
+            "powerpuffgirls",
+            "play power puff girls",
+            "play power puff girls song",
+            "play power puff girls theme song"
+          ]
+        },
+        {
+          "name": "thepinkpanther",
+          "samples": [
+            "play pink pank panther song",
+            "play pink panther theme song",
+            "play pink panther",
+            "pink panther",
+            "pinkpanther",
+            "the pink panther"
+          ]
+        },
+        {
+          "name": "timonpumbaa",
+          "samples": [
+            "timonpumbaa",
+            "timon pumbaa",
+            "play timonpumbaa"
+          ]
+        },
+        {
+          "name": "pokemon",
+          "samples": [
+            "pokemon",
+            "play pokemon song",
+            "play pokemon theme song",
+            "play pokemon"
+          ]
+        },
+        {
+          "name": "billymandy",
+          "samples": [
+            "billymandy",
+            "play billy mandy song",
+            "billy mandy"
+          ]
+        },
+        {
+          "name": "dragonballz",
+          "samples": [
+            "dragon ball z",
+            "play dragonballz",
+            "play dragon ball z"
+          ]
+        },
+        {
+          "name": "naruto",
+          "samples": [
+            "naruto",
+            "play naruto song",
+            "play naruto"
+          ]
+        },
+        {
+          "name": "scooobydoo",
+          "samples": [
+            "play scooobydoo song",
+            "play scoooby doo song",
+            "scoooby doo",
+            "play scoooby doo"
+          ]
+        },
+        {
+          "name": "benten",
+          "samples": [
+            "benten",
+            "ben ten",
+            "play ben ten",
+            "play benten",
+            "paly ben ten song"
+          ]
+        },
+        {
+          "name": "ededdneddy",
+          "samples": [
+            "play courage the stupid dog",
+            "courage the stupid dog",
+            "play couragethestupiddog"
+          ]
+        },
+        {
+          "name": "couragethestupiddog",
+          "samples": [
+            "courage stupid dog",
+            "couragethestupidog",
+            "courage the stupid dog",
+            "play the courage the stupid dog theme song"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.d31e0065-f0a0-40a0-9c86-fb8c5323e92e",
+      "was_cloned": true,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "arn:aws:lambda:us-east-1:633786949655:function:ask-custom-pogoCNthemesongs-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
